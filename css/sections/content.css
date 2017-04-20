@@ -1,0 +1,14 @@
+.stuff {
+    width: 76%;
+    float: right;
+}
+
+.content-title {
+    font-family: 'fira_sansmedium';
+    font-size: 35px;
+    color: #414141;
+    line-height: 38px;
+    margin-bottom: 16px;
+    margin-left: 17px;
+    font-weight: normal;
+}
